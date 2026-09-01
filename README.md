@@ -8,6 +8,7 @@ A coding platform that can learn more and acknowledge us
 | ------- |
 | [0048-rotate-image](https://github.com/Madhesh4/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Madhesh4/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Madhesh4/Leetcode/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A coding platform that can learn more and acknowledge us
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Madhesh4/Leetcode/tree/master/0052-n-queens-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Madhesh4/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Madhesh4/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
