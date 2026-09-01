@@ -33,4 +33,12 @@ A coding platform that can learn more and acknowledge us
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Madhesh4/Leetcode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Madhesh4/Leetcode/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Madhesh4/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
