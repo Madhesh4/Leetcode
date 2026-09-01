@@ -12,6 +12,7 @@ A coding platform that can learn more and acknowledge us
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Madhesh4/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Madhesh4/Leetcode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A coding platform that can learn more and acknowledge us
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Madhesh4/Leetcode/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Madhesh4/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
