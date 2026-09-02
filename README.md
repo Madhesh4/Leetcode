@@ -10,12 +10,14 @@ A coding platform that can learn more and acknowledge us
 | [0049-group-anagrams](https://github.com/Madhesh4/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Madhesh4/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Madhesh4/Leetcode/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/Madhesh4/Leetcode/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Madhesh4/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Madhesh4/Leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Madhesh4/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Madhesh4/Leetcode/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A coding platform that can learn more and acknowledge us
 | ------- |
 | [0050-powx-n](https://github.com/Madhesh4/Leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Madhesh4/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Madhesh4/Leetcode/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A coding platform that can learn more and acknowledge us
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhesh4/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Madhesh4/Leetcode/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/Madhesh4/Leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -62,4 +66,16 @@ A coding platform that can learn more and acknowledge us
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Madhesh4/Leetcode/tree/master/0342-power-of-four) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Madhesh4/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Madhesh4/Leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Madhesh4/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
