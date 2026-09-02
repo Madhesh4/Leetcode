@@ -15,6 +15,7 @@ A coding platform that can learn more and acknowledge us
 | ------- |
 | [0048-rotate-image](https://github.com/Madhesh4/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Madhesh4/Leetcode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Madhesh4/Leetcode/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A coding platform that can learn more and acknowledge us
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Madhesh4/Leetcode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Madhesh4/Leetcode/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A coding platform that can learn more and acknowledge us
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Madhesh4/Leetcode/tree/master/0055-jump-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Madhesh4/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
